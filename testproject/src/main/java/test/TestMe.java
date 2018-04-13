@@ -7,10 +7,17 @@ public class TestMe {
 		System.out.println(add(10,20));
 		
 		homePageTesting();
+		
+		cartPageTesting();
 
 		
 	}
 	
+	private static void cartPageTesting() {
+		System.out.println("Cart page testing done succesfully!!!");
+		
+	}
+
 	//Add comment to function
 	private static int add(int a, int b){
 		
