@@ -9,7 +9,7 @@ public class TestMe {
 		
 	}
 	
-	
+	//Add comment to function
 	private static int add(int a, int b){
 		return a+b;
 		
